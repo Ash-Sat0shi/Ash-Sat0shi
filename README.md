@@ -8,8 +8,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... LoRa communication
-- 🌱 I’m currently learning ... C to use Arduino
+- 🔭 I’m currently working on ... my company's landing page
+- 🌱 I’m currently learning ... C to use Arduino, electrical things to get electrician license.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
